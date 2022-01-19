@@ -1,0 +1,14 @@
+s s s s s s s s s s s s
+m M m M m M m M m M m M
+d D d D d D d D d D d D
+i I L h c R S S p S S L
+S S l z z g z R S S S z
+S p S S S S g z i I L z
+L z C z z c C z R S z z
+z z S p S S l z z u z z
+z g c R S p S S S S l z
+l z C r S S S S S p S l
+S S S S i I S S S S S S
+p S S S S S S S S i I S
+
+
